@@ -1,1 +1,1 @@
-# kmmsmarthospital
+# kmmsmarthospitals
